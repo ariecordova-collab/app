@@ -1,0 +1,5 @@
+{
+  "name": "GenSoal SMP (Fase D)",
+  "description": "Aplikasi generator soal otomatis untuk tingkat SMP/Fase D menggunakan AI, mendukung berbagai mata pelajaran, jenis soal, dan format.",
+  "requestFramePermissions": []
+}
